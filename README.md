@@ -6,3 +6,4 @@ To look at what SNPs might be present in your own genome, you first must convert
 Once your genetic data has been reformatted, you can utilize Genome Query Language (https://github.com/genomejs/gql) and genosets from SNPedia (http://www.snpedia.com/index.php/Genoset) to test if you have a predisposition for certain traits like blue eyes or ability to taste bitter. Bioinformatics is fun!
 
 For more information, please see my presentation from Fullstack Academy's November 2016 Stackathon: http://slides.com/sarasunsh/deck
+
